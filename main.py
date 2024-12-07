@@ -5,7 +5,7 @@ import random
 from openpyxl import load_workbook, Workbook
 
 # Токен бота Telegram
-TOKEN = '7717241932:AAHF4hFEMPsedHFfK82yp27F5hRvXwG23_0'  # Замени на твой токен
+TOKEN = 'TOKEEEN'  # Замени на твой токен
 bot = telebot.TeleBot(TOKEN, parse_mode='Markdown')
 
 # Путь к Excel файлу
